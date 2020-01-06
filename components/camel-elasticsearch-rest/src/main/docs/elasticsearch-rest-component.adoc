@@ -1,5 +1,5 @@
 [[elasticsearch-rest-component]]
-= Elastichsearch Rest Component
+= Elasticsearch Rest Component
 
 *Since Camel 2.21*
 
@@ -38,7 +38,7 @@ elasticsearch-rest://clusterName[?options]
 == Endpoint Options
 
 // component options: START
-The Elastichsearch Rest component supports 14 options, which are listed below.
+The Elasticsearch Rest component supports 14 options, which are listed below.
 
 
 
@@ -64,7 +64,7 @@ The Elastichsearch Rest component supports 14 options, which are listed below.
 
 
 // endpoint options: START
-The Elastichsearch Rest endpoint is configured using URI syntax:
+The Elasticsearch Rest endpoint is configured using URI syntax:
 
 ----
 elasticsearch-rest:clusterName
